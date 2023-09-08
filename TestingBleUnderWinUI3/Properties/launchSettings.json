@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "TestingBleUnderWinUI3 (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "TestingBleUnderWinUI3 (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
